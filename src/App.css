@@ -1,0 +1,11 @@
+.centre{
+	display: block;
+	width: 935px;
+	margin: auto auto;
+	text-align: left;
+	padding: 25px 0;
+	color: #112222;
+}
+.display{
+	display: flex;
+}

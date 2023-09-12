@@ -1,0 +1,13 @@
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    margin: 9px;
+}
+
+.first{
+    margin-right: 12px;
+}
+
+.second{
+    margin-left: 12px;
+}

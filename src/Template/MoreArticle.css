@@ -1,0 +1,60 @@
+.details {
+    clear: both;
+    font-size: 0.9em;
+    height: 22px;
+    background: url('http://127.0.0.1:5500/images/details.gif') repeat-x 0 0;
+    margin-bottom: 17px;
+}
+
+.l {
+    float: left;
+    /* padding: 3px;/ */
+    margin: 0;
+    /* font: 12px Verdana; */
+}
+
+.l-a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.category {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.r {
+    float: right;
+    /* padding: 3px; */
+    margin: 0;
+    /* font: 12px Verdana; */
+}
+
+.article-h2 {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    line-height: 1.4em;
+    /* font: 12px Verdana; */
+}
+
+.post {
+    padding: 10px;
+}
+
+.thumb {
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+    float: left;
+    margin: 0 10px 15px 0;
+}
+
+.thumb-img {
+    width: 200px;
+}
+
+.post-p {
+    line-height: 1.4em;
+    margin-bottom: 10px;
+    font: 12px Verdana;
+}

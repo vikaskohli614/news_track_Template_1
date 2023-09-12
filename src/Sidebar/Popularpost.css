@@ -1,0 +1,18 @@
+.box{
+    width: 350px;
+    float: right;
+    font: 12px Verdana;
+}
+.box-ul {
+    list-style-type: none;
+    padding: 0 15px 20px;
+}
+    .box-li {
+        line-height: 1.6em;
+        padding: 2px 5px;
+        border-bottom: 1px dotted #DDDDDD;
+    }
+    .box-a {
+        color: #112222;
+        text-decoration: none;
+    }

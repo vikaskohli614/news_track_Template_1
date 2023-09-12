@@ -1,0 +1,29 @@
+.Content {
+    width: 564px;
+    float: left;
+}
+
+.featured {
+    border: 1px solid #CBDDDD;
+    margin-bottom: 10px;
+}
+
+.buffer {
+    padding: 0 16px 15px;
+}
+
+.title {
+    font-size: 0.7em;
+    text-transform: uppercase;
+    background: url(../Images/header1.gif) no-repeat center 0;
+    color: #ffffff;
+    width: 175px;
+    text-align: center;
+    padding: 1px 0 3px;
+    margin-bottom: 10px;
+margin-top: 0;
+}
+
+.Main-image{
+    margin: 2%;
+}

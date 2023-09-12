@@ -1,0 +1,36 @@
+.postnav {
+    clear: both;
+    padding: 52px 0 20px;
+    width: 645px;
+    float: left;
+    margin: -41px;
+}
+
+
+.postnav-ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+.postnav-li {
+    float: left;
+    font-weight: bold;
+    padding: 2px;
+    font-size: 0.1em;
+    font-family: Verdana;
+    margin: 0;
+}
+
+.postnav-a {
+    display: block;
+    padding: 7px 10px;
+    background-color: #9E9E9D;
+    color: #ffffff;
+    text-decoration: none;
+    border: 0 !important;
+    margin: 0;
+}
+
+.postnav-a:hover {
+    background-color: #234566;
+}
